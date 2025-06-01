@@ -89,6 +89,4 @@ export default {
   border-left: 0px
 .linea-tiempo-d__item__dots:after
   border-left: 5px dotted #D2E1F1
-.fa-angle-up, .fa-angle-down
-  display: none
 </style>
